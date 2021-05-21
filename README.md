@@ -1,18 +1,21 @@
-- 👋 Hi, I’m @machugram
+<!-- - 👋 Hi, I’m @machugram
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+ -->
+<h1 align="center">Hi 👋🏾 I'm Rexford Machu</h1>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=machugram&show_icons=true&locale=en" alt="machugram" /></p>
+ -->
 <!---
 machugram/machugram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 
-
-<!-- ### Hi there, I'm <a href="https://machugram.netlify.app" target="_blank">Rexford Machu</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+<!-- 
+ <h1 align="center"> Hi there, I'm <a href="https://machugram.netlify.app" target="_blank" >Rexford Machu</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> -->
+<!--
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rexford-machu)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://machugram.netlify.app)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/machugram)
