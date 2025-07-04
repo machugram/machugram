@@ -3,14 +3,14 @@
 <br>
 <br>
 
-I am a computer engineer tinkering with AI✨ systems. I love to write and create films
+I am a computer engineer tinkering with AI✨ and compute systems. I love to write and create films
 
 As an engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference. I am a skilled professional who delivers highly rated products.
 
 **Talking about Personal Stuff:**
 
 - 👀 I’m interested in computers and how they react and interact.
-- AI Agents and Compute
+- AI Agents and Compute ✨
 - Swimming🏊🏾‍♂️ and Tennis🎾
 
 **Languages and Tools:**  
