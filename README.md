@@ -10,6 +10,7 @@ As an engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 **Talking about Personal Stuff:**
 
 - 👀 I’m interested in computers and how they react and interact.
+- AI Agents and Compute
 - Swimming🏊🏾‍♂️ and Tennis🎾
 
 **Languages and Tools:**  
