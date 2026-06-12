@@ -5,12 +5,12 @@
 
 I am a computer engineer tinkering with AI✨ and compute systems. I love to write and create films
 
-As an engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference. I am a skilled professional who delivers highly rated products.
+As an engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 **Talking about Personal Stuff:**
 
-- 👀 I’m interested in computers and how they react and interact.
-- AI Agents and Compute ✨
+- 👀 I’m interested in computers, observability and reliability.
+- AI Agents, ephemeral computers, data storage and orchestration✨
 - Swimming🏊🏾‍♂️ and Tennis🎾
 
 **Languages and Tools:**  
