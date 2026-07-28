@@ -9,8 +9,8 @@ As an engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 
 **Talking about Personal Stuff:**
 
-- 👀 I’m interested in computers, observability and reliability.
-- AI Agents, ephemeral computers, data storage and orchestration✨
+- 👀 I’m interested in edge compute, observability and reliability.
+- AI Agents, ephemeral computers, data storage and orchestration
 - Swimming🏊🏾‍♂️ and Tennis🎾
 
 **Languages and Tools:**  
