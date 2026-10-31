@@ -2,24 +2,24 @@
 
 computer / software engineer. tinkerer first.
 
-I work on product systems that have to be correct under regulation in Dublin. 
+I work on ensuring reliability, observability and availability of platforms, products and systems in Dublin. 
 
 The rest of the time I tinker with AI agents, ephemeral computers, and the storage and orchestration underneath them.
 
-I like making things that change how someone actually works. I also write, and I make films.
+I like making things that efficiently change how someone actually works . I also write, and I make films.
 
 Community work with [DevCongress](https://github.com/devcongress) and [SRE @ Dublin](https://www.meetup.com/site-reliability-engineering-dublin/).
 
 ## now
 
-- Product and platform engineering that software desks and regulators can trust; tightening data quality, monitoring, and failure recovery where mistakes are expensive.
+- product, reliability  and platform engineering that software desks and regulators can trust; tightening data quality, monitoring, and failure recovery where mistakes are expensive.
 - Side work on agent runtimes, self-service data platforms, and developer tooling. Full notes on the [project hub](https://machugram.github.io/projects).
 
 ## currently curious about
 
 - Edge compute, observability, and reliability
 - AI agents, ephemeral computers, data storage, and orchestration
-- Systems that stay auditable when a model is in the loop
+- Systems that stay auditable and reliable when a model is in the loop
 
 ## selected work
 
